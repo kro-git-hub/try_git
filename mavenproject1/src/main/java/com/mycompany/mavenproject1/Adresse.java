@@ -11,15 +11,6 @@ package com.mycompany.mavenproject1;
  */
 public class Adresse {
     private String street;
-    private int housenumber;
-
-    public int getHousenumber() {
-        return housenumber;
-    }
-
-    public void setHousenumber(int housenumber) {
-        this.housenumber = housenumber;
-    }
 
     public String getStreet() {
         return street;
